@@ -5,6 +5,7 @@ Notes and examples I kept during my Python learning process.
 - Lists
 - Data type conversion
 - Advanced lists
-- Dictionaries
+- Dictionariy
+- Sets
 
 📌 Python files and explanations will be added.
