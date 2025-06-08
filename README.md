@@ -12,6 +12,11 @@ Notes and examples I kept during my Python learning process.
 - Practical examples with `.items()`, `.get()`, key/value pairs
 - Set theory: creation, uniqueness, union
 - Tuples: read-only list structures
+-  – Conditional Statements
+- `if`, `elif`, `else` usage
+- Comparison & logical operators
+- Practical examples of decision making
+
 
 
 📌 Python files and explanations will be added.
