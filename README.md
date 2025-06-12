@@ -16,6 +16,10 @@ Notes and examples I kept during my Python learning process.
 - `if`, `elif`, `else` usage
 - Comparison & logical operators
 - Practical examples of decision making
+- `for` and `while` loops
+- Loop control statements: `break`, `continue`, `pass`
+- Range usage and examples
+
 
 
 
