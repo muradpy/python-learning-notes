@@ -19,6 +19,20 @@ Notes and examples I kept during my Python learning process.
 - `for` and `while` loops
 - Loop control statements: `break`, `continue`, `pass`
 - Range usage and examples
+- ## 🧠 Python Functions
+
+In this section, I practiced the basics of Python functions.
+
+### ✅ Topics Covered:
+- How to define a function (`def`)
+- Parameters and arguments
+- Using `return`
+- Square and cube calculation functions
+- Reusable code blocks
+
+### 📂 File:
+- `functions.ipynb` → Jupyter Notebook with all examples
+
 
 
 
