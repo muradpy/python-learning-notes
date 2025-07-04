@@ -32,6 +32,16 @@ In this section, I practiced the basics of Python functions.
 
 ### 📂 File:
 - `functions.ipynb` → Jupyter Notebook with all examples
+- ## Object-Oriented Programming Concepts (OOP)
+
+This file contains examples of:
+
+- Class & Instance
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+
 
 
 
